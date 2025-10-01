@@ -21,3 +21,4 @@ Production	  : ditemukan issue yang harus diperbaiki saat itu juga
 Jelaskan apa yang harus dilakukan supaya issue dapat diperbaiki serta branch QA & Development tidak terjadi conflict dan tetap up-to-date terhadap perbaikan issue?
 
 
+
